@@ -3,10 +3,10 @@
 This project predicts students performance using machine learning.
 
 ##Technologies 
--Python
--Pandas
--Numpy
--Scikit-learn
+- Python
+- Pandas
+- Numpy
+- Scikit-learn
 
 ##Features
 - Data Preprocessing
