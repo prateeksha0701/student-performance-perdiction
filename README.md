@@ -1,2 +1,17 @@
-# student-performance-perdiction
-Machine Learning project to predict student performance using python, pandas, Numpy, and Scikit-learn.
+# Student Performance Prediction
+
+This project predicts students performance using machine learning.
+
+##Technologies 
+-Python
+-Pandas
+-Numpy
+-Scikit-learn
+
+##Features
+- Data Preprocessing
+- Visualization
+- Model training
+
+##Outcomes
+Built a predictive model using real
